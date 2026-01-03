@@ -35,7 +35,7 @@ Whether you want to be a law‑abiding citizen, criminal mastermind, business ow
 * Metagaming and powergaming are strictly prohibited
 * Stay in character at all times unless instructed otherwise
 
-📌 Full rules are available in our Discord server.
+📌 Full rules are available in our Website .
 
 ---
 
@@ -78,7 +78,7 @@ We are always improving Aottari RP. Developers and contributors are welcome.
 
 If you need help:
 
-* Open a support ticket in Discord
+* Open a support ticket in Discord or our website
 * Contact an administrator or moderator
 
 ---
